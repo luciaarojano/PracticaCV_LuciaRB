@@ -8,5 +8,16 @@ namespace PracticaCV_LuciaRB
 {
     internal class Clase_LuciaRB
     {
+        //CONSTANTES
+
+        //MIEMBROS / CAMPOS
+
+        //CONSTRUCTORES
+
+        //PROPIEDADES
+
+        //MÉTODOS PRIVADOS
+
+        //MÉTODOS PÚBLICOS
     }
 }
